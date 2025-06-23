@@ -1,0 +1,18 @@
+[project]
+name = "master-finsent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "aiohttp>=3.11.12",
+    "cython>=3.1.0",
+    "eikon>=1.1.18",
+    "ollama>=0.4.8",
+    "pandas-market-calendars>=5.1.0",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "statsmodels>=0.14.4",
+    "torch>=2.6.0",
+    "transformers>=4.49.0",
+]
