@@ -13,8 +13,11 @@ The project implements a complete pipeline from financial news data collection t
 3. **Data Processing**: Filters automated news, aggregates sentiment scores with price data
 4. **Transfer Entropy Analysis**: Analyzes directional information flow between sentiment and stock returns
 
+## Table of Contents
+
 - [Transfer Entropy Analysis of Extracted News Sentiment and Stock Returns](#transfer-entropy-analysis-of-extracted-news-sentiment-and-stock-returns)
   - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
     - [Platform Support](#platform-support)
     - [Eikon API Setup](#eikon-api-setup)
