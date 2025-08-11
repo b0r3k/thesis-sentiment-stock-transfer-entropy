@@ -1,6 +1,6 @@
 # Transfer Entropy Analysis of Extracted News Sentiment and Stock Returns
 
-This repository contains the accompanying code for the master thesis *Causal Information Flow in European Financial Markets: Transfer Entropy Analysis of News Sentiment and STOXX50 Returns* that analyzes the relationship between financial news sentiment and stock price movements using transfer entropy analysis on STOXX 50 constituents. 
+This repository contains the accompanying code for the master thesis [*Causal Information Flow in European Financial Markets: Transfer Entropy Analysis of News Sentiment and STOXX50 Returns*](https://vskp.vse.cz/98345_tok-informaci-na-evropskych-financnich-trzich-analyza-prenosove-entropie-mezi-sentimentem-novinovych-titulku-a-cenami-akcii-firem-indexu-stoxx50) that analyzes the relationship between financial news sentiment and stock price movements using transfer entropy analysis on STOXX 50 constituents. 
 
 The final logs of our own analysis can be found in `transfer_entropy_20250622_111804.log`.
 
